@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sohel khan
 
-<!--
-**sohelkhan1291/sohelkhan1291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about technology and problem-solving, leveraging my diverse skill set to create impactful projects. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+Here are some technologies and tools I frequently work with:
+
+- **Programming Languages**: Python, C++, HTML, CSS
+- **Data Skills**: SQL, Excel, Power BI
+- **Others**: Data Analysis, Dashboarding, Full-Stack Development
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: sohel.khan.career@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/YourProfile/sohel-khan-168267248/
+- 📸 Instagram: https://www.instagram.com/sohe.l.khan/?__pwa=1
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+![Profile Views](https://gpvc.arturio.dev/YourGitHubUsername)
+
